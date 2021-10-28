@@ -1,0 +1,12 @@
+C:\Coding\github\Connoisseur\Connoisseur.Library\bin\Debug\net5.0\Connoisseur.Library.deps.json
+C:\Coding\github\Connoisseur\Connoisseur.Library\bin\Debug\net5.0\Connoisseur.Library.dll
+C:\Coding\github\Connoisseur\Connoisseur.Library\bin\Debug\net5.0\ref\Connoisseur.Library.dll
+C:\Coding\github\Connoisseur\Connoisseur.Library\bin\Debug\net5.0\Connoisseur.Library.pdb
+C:\Coding\github\Connoisseur\Connoisseur.Library\obj\Debug\net5.0\Connoisseur.Library.csproj.AssemblyReference.cache
+C:\Coding\github\Connoisseur\Connoisseur.Library\obj\Debug\net5.0\Connoisseur.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\github\Connoisseur\Connoisseur.Library\obj\Debug\net5.0\Connoisseur.Library.AssemblyInfoInputs.cache
+C:\Coding\github\Connoisseur\Connoisseur.Library\obj\Debug\net5.0\Connoisseur.Library.AssemblyInfo.cs
+C:\Coding\github\Connoisseur\Connoisseur.Library\obj\Debug\net5.0\Connoisseur.Library.csproj.CoreCompileInputs.cache
+C:\Coding\github\Connoisseur\Connoisseur.Library\obj\Debug\net5.0\Connoisseur.Library.dll
+C:\Coding\github\Connoisseur\Connoisseur.Library\obj\Debug\net5.0\ref\Connoisseur.Library.dll
+C:\Coding\github\Connoisseur\Connoisseur.Library\obj\Debug\net5.0\Connoisseur.Library.pdb

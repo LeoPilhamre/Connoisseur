@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Connoisseur/1.0.0": {
+        "dependencies": {
+          "Connoisseur.Library": "1.0.0"
+        },
+        "runtime": {
+          "Connoisseur.dll": {}
+        }
+      },
+      "Connoisseur.Library/1.0.0": {
+        "runtime": {
+          "Connoisseur.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Connoisseur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Connoisseur.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
