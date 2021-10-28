@@ -6,4 +6,4 @@ dont believe us?
 
 neither do we.
 
-    - Sun Tzu, <i>The art of war</i>
+\- Sun Tzu, <em>The art of war<em>
