@@ -8,15 +8,27 @@
     ".NETCoreApp,Version=v5.0": {
       "Connoisseur/1.0.0": {
         "dependencies": {
-          "Connoisseur.Library": "1.0.0"
+          "Connoisseur.DiscordAsync": "1.0.0",
+          "Connoisseur.Library": "1.0.0",
+          "Connoisseur.RedditFetch": "1.0.0"
         },
         "runtime": {
           "Connoisseur.dll": {}
         }
       },
+      "Connoisseur.DiscordAsync/1.0.0": {
+        "runtime": {
+          "Connoisseur.DiscordAsync.dll": {}
+        }
+      },
       "Connoisseur.Library/1.0.0": {
         "runtime": {
           "Connoisseur.Library.dll": {}
+        }
+      },
+      "Connoisseur.RedditFetch/1.0.0": {
+        "runtime": {
+          "Connoisseur.RedditFetch.dll": {}
         }
       }
     }
@@ -27,7 +39,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Connoisseur.DiscordAsync/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Connoisseur.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Connoisseur.RedditFetch/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

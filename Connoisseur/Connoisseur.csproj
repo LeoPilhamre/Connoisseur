@@ -2,6 +2,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Connoisseur.Library\Connoisseur.Library.csproj" />
+    <ProjectReference Include="..\Connoisseur.DiscordAsync\Connoisseur.DiscordAsync.csproj" />
+    <ProjectReference Include="..\Connoisseur.RedditFetch\Connoisseur.RedditFetch.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

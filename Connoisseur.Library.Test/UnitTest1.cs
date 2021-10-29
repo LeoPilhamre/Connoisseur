@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Connoisseur.Library;
+using Connoisseur.DiscordAsync;
+using Connoisseur.RedditFetch;
 
 namespace Connoisseur.Library.Test
 {
@@ -9,13 +10,13 @@ namespace Connoisseur.Library.Test
         [TestMethod]
         public void TestDiscordAsync()
         {
-            DiscordAsync.Main(null);
+            new DiscordAsync.App(null);
         }
 
         [TestMethod]
         public void TestRedditFetch()
         {
-            RedditFetch.Main(null);
+            new RedditFetch.App(null);
         }
     }
 }

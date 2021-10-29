@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v5.0": {
       "Connoisseur.Library.Test/1.0.0": {
         "dependencies": {
+          "Connoisseur.DiscordAsync": "1.0.0",
           "Connoisseur.Library": "1.0.0",
+          "Connoisseur.RedditFetch": "1.0.0",
           "MSTest.TestAdapter": "2.2.3",
           "MSTest.TestFramework": "2.2.3",
           "Microsoft.NET.Test.Sdk": "16.9.4",
@@ -1077,9 +1079,19 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
+      "Connoisseur.DiscordAsync/1.0.0": {
+        "runtime": {
+          "Connoisseur.DiscordAsync.dll": {}
+        }
+      },
       "Connoisseur.Library/1.0.0": {
         "runtime": {
           "Connoisseur.Library.dll": {}
+        }
+      },
+      "Connoisseur.RedditFetch/1.0.0": {
+        "runtime": {
+          "Connoisseur.RedditFetch.dll": {}
         }
       }
     }
@@ -1706,7 +1718,17 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
+    "Connoisseur.DiscordAsync/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Connoisseur.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Connoisseur.RedditFetch/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

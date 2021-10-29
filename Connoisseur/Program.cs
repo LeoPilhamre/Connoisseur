@@ -1,5 +1,6 @@
 ﻿using System;
-using Connoisseur.Library;
+using Connoisseur.DiscordAsync;
+using Connoisseur.RedditFetch;
 
 namespace Connoisseur
 {
@@ -10,9 +11,9 @@ namespace Connoisseur
         /// </summary>
         static void Main(string[] argv)
         {
-            DiscordAsync.Main(argv);
+            new DiscordAsync.App(argv);
 
-            RedditFetch.Main(argv);
+            new RedditFetch.App(argv);
         }
     }
 }

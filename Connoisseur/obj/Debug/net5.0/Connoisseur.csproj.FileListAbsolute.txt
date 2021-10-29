@@ -16,3 +16,7 @@ C:\Coding\github\Connoisseur\Connoisseur\obj\Debug\net5.0\Connoisseur.dll
 C:\Coding\github\Connoisseur\Connoisseur\obj\Debug\net5.0\ref\Connoisseur.dll
 C:\Coding\github\Connoisseur\Connoisseur\obj\Debug\net5.0\Connoisseur.pdb
 C:\Coding\github\Connoisseur\Connoisseur\obj\Debug\net5.0\Connoisseur.genruntimeconfig.cache
+C:\Coding\github\Connoisseur\Connoisseur\bin\Debug\net5.0\Connoisseur.DiscordAsync.dll
+C:\Coding\github\Connoisseur\Connoisseur\bin\Debug\net5.0\Connoisseur.DiscordAsync.pdb
+C:\Coding\github\Connoisseur\Connoisseur\bin\Debug\net5.0\Connoisseur.RedditFetch.dll
+C:\Coding\github\Connoisseur\Connoisseur\bin\Debug\net5.0\Connoisseur.RedditFetch.pdb

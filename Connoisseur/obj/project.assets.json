@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Connoisseur.DiscordAsync/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Connoisseur.DiscordAsync.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Connoisseur.DiscordAsync.dll": {}
+        }
+      },
       "Connoisseur.Library/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -11,19 +21,41 @@
         "runtime": {
           "bin/placeholder/Connoisseur.Library.dll": {}
         }
+      },
+      "Connoisseur.RedditFetch/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Connoisseur.RedditFetch.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Connoisseur.RedditFetch.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "Connoisseur.DiscordAsync/1.0.0": {
+      "type": "project",
+      "path": "../Connoisseur.DiscordAsync/Connoisseur.DiscordAsync.csproj",
+      "msbuildProject": "../Connoisseur.DiscordAsync/Connoisseur.DiscordAsync.csproj"
+    },
     "Connoisseur.Library/1.0.0": {
       "type": "project",
       "path": "../Connoisseur.Library/Connoisseur.Library.csproj",
       "msbuildProject": "../Connoisseur.Library/Connoisseur.Library.csproj"
+    },
+    "Connoisseur.RedditFetch/1.0.0": {
+      "type": "project",
+      "path": "../Connoisseur.RedditFetch/Connoisseur.RedditFetch.csproj",
+      "msbuildProject": "../Connoisseur.RedditFetch/Connoisseur.RedditFetch.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Connoisseur.Library >= 1.0.0"
+      "Connoisseur.DiscordAsync >= 1.0.0",
+      "Connoisseur.Library >= 1.0.0",
+      "Connoisseur.RedditFetch >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,8 +85,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Coding\\github\\Connoisseur\\Connoisseur.DiscordAsync\\Connoisseur.DiscordAsync.csproj": {
+              "projectPath": "C:\\Coding\\github\\Connoisseur\\Connoisseur.DiscordAsync\\Connoisseur.DiscordAsync.csproj"
+            },
             "C:\\Coding\\github\\Connoisseur\\Connoisseur.Library\\Connoisseur.Library.csproj": {
               "projectPath": "C:\\Coding\\github\\Connoisseur\\Connoisseur.Library\\Connoisseur.Library.csproj"
+            },
+            "C:\\Coding\\github\\Connoisseur\\Connoisseur.RedditFetch\\Connoisseur.RedditFetch.csproj": {
+              "projectPath": "C:\\Coding\\github\\Connoisseur\\Connoisseur.RedditFetch\\Connoisseur.RedditFetch.csproj"
             }
           }
         }
