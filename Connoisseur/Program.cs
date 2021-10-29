@@ -11,7 +11,7 @@ namespace Connoisseur
         /// </summary>
         static void Main(string[] argv)
         {
-            new DiscordAsync.App(argv);
+            // new DiscordAsync.App(argv);
 
             new RedditFetch.App(argv);
         }
