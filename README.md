@@ -11,4 +11,6 @@ neither do we.
 
 Do this:
     - run when starting to code: <code>git pull</code>
-    - run <code>git pull</code>
+    - run when finished coding for the session: <code>git add .</code>
+                                                <code>git commit -m "[name of commit]"</code>
+                                                <code>git push</code>
