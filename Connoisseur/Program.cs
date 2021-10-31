@@ -13,7 +13,7 @@ namespace Connoisseur
         {
             // new DiscordAsync.App(argv);
 
-            // new RedditFetch.App(argv);
+            new RedditFetch.App(argv);
         }
     }
 }
