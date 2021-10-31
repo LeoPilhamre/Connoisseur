@@ -28,6 +28,8 @@ namespace Connoisseur.RedditFetch
             state=RANDOM_STRING&redirect_uri=URI&duration=DURATION&scope=SCOPE_STRING*/
              
 
+            //THIS IS A TEST
+
             try
             {
                 HttpResponseMessage response = await client.GetAsync("http://www.contoso.com/");
